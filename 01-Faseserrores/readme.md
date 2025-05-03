@@ -1,2 +1,2 @@
-#Fases de la traducción y errores
+# Fases de la traducción y errores
 
