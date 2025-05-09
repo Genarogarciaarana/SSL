@@ -28,6 +28,7 @@ v) Las principales implementaciones del lenguaje C son GCC, Clang y MSVC, las cu
 vi) Una función "built-in" es una función proporcionada por el compilador, las cuales estan optimizadas para realizar tareas comunes de forma eficiente.
 vii) Gcc actua de cierta manera ya que sigue de forma estricta el estándar del lenguaje de C y C++. Gcc no va en contra de la especificación ya que te da la libertad de nombrar a las funciónes, los parámetros y las variables de la forma que quieras.
 
-
+6)C) En ambos casos nos debería tirar un error, ya que la función espera 2 argumentos, ni más ni menos.
+D)IV) Habiendo definido la librería "studio.h" anteriormente, en el "hello9.c" puedo declarar prontf en la misma. Así despues, en "studio2.c" ya tengo definidas la librería y la función prontf para hacer uso de ellas en el codigo de forma correcta y sin que me devuelva ningún warning o error.
 
 ```
