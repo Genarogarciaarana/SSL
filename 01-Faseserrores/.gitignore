@@ -1,0 +1,6 @@
+*.exe
+*.o
+*.i
+*.s
+build/
+bin/
